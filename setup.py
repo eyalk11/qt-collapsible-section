@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='qt-collapsible-section',
     version='',
-    packages=[''],
+    packages=['qt_collapsible_section'],
     url='',
     license='LGPL',
     author='Michael A. Voelkel ',
