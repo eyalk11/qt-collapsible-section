@@ -6,7 +6,7 @@ Special thanks to "x squared" who has posted the original code for this idea at 
 
 A python version is available, using PyQt5, as Section.py.
 
-## Changes in this fork:
+## Changes in this fork
 
 * Adapted to PySide6
 
