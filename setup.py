@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='qt-collapsible-section',
-    version='',
+    version='0.1.0',
     packages=['qt_collapsible_section'],
     url='',
     license='LGPL',
